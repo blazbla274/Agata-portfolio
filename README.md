@@ -1,4 +1,4 @@
-#Agata portfolio
+# Agata portfolio
 
 It is artistic portfolio project for Agata. 
 Created to display artist picture and artgraphic. 
