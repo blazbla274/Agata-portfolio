@@ -159,6 +159,70 @@
     background-image: url(../img/46.png);
     background-position: 43% 0%;
 }
+.normal.id47 {
+    background-image: url(../img/47.jpg);
+    background-position: 43% 0%;
+}
+.normal.id48 {
+    background-image: url(../img/48.jpg);
+    background-position: 43% 15%;
+}
+.normal.id49 {
+    background-image: url(../img/49.jpg);
+    background-position: -11% 0%;
+}
+.normal.id50 {
+    background-image: url(../img/50.jpg);
+    background-position: 43% 0%;
+}
+.normal.id51 {
+    background-image: url(../img/51.jpg);
+    background-position: 43% 45%;
+}
+.normal.id52 {
+    background-image: url(../img/52.jpg);
+    background-position: 43% 0%;
+}
+.normal.id53 {
+    background-image: url(../img/53.jpg);
+    background-position: 43% 0%;
+}
+.normal.id54 {
+    background-image: url(../img/54.jpg);
+    background-position: 75% 0%;
+}
+.normal.id55 {
+    background-image: url(../img/55.jpg);
+    background-position: 43% 50%;
+}
+.normal.id56 {
+    background-image: url(../img/56.jpg);
+    background-position: 43% 101%;
+}
+.normal.id57 {
+    background-image: url(../img/57.JPG);
+    background-position: 43% 100%;
+}
+.normal.id58 {
+    background-image: url(../img/58.jpg);
+    background-position: 43% 100%;
+}
+.normal.id59 {
+    background-image: url(../img/59.jpg);
+    background-position: 43% 50%;
+}
+.normal.id60 {
+    background-image: url(../img/60.JPG);
+    background-position: 43% 100%;
+}
+.normal.id61 {
+    background-image: url(../img/61.JPG);
+    background-position: 43% 80%;
+}
+.normal.id62 {
+    background-image: url(../img/62.jpg);
+    background-position: 43% 75%;
+}
 
 .horizontal.id1 {
     background-image: url(../img/horizontal-2.jpg);
@@ -199,6 +263,13 @@
 }
 .horizontal.id12 {
     background-image: url(../img/horizontal-12.png);
+}
+.horizontal.id13 {
+    background-image: url(../img/horizontal-13.jpg);
+}
+.horizontal.id14 {
+    background-image: url(../img/horizontal-14.JPG);
+    background-position: 0% 100%;
 }
 
 .normal.idH1 {
@@ -247,5 +318,13 @@
 }
 .normal.idH12 {
     background-image: url(../img/horizontal-12.png);
+    background-position: center bottom;
+}
+.normal.idH13 {
+    background-image: url(../img/horizontal-13.jpg);
+    background-position: center bottom;
+}
+.normal.idH14 {
+    background-image: url(../img/horizontal-14.JPG);
     background-position: center bottom;
 }

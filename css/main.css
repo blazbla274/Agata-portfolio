@@ -291,6 +291,7 @@ body > span {
     width: 800px;
     transform: translate(-50%,700px);
     transition: width 600ms ease;
+    margin-bottom: 60px;
 }
 
 @media(max-width: 800px) { /*responsywność galerii*/
