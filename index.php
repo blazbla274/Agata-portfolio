@@ -69,204 +69,55 @@
             </div>
             
             <div class="portfolio-container-normal">
-                <div class="normal id1">
-                </div>
                 <div class="normal id2">
-                </div>
-                <div class="horizontal id1">
-                </div>
-                <div class="normal id3">
                 </div>
                 <div class="normal id4">
                 </div>
-                <div class="horizontal id2">
+                <div class="horizontal id5">
                 </div>
                 <div class="normal id5">
                 </div>
-                <div class="normal id6">
+                <div class="normal id53">
                 </div>
                 <div class="horizontal id3">
                 </div>
-                <div class="normal id7">
-                </div>
                 <div class="normal id8">
                 </div>
-                <div class="horizontal id4">
-                </div>
-                <div class="normal id9">
-                </div>
-                <div class="normal id10">
-                </div>
-                <div class="horizontal id5">
-                </div>
-                <div class="normal id11">
-                </div>
                 <div class="normal id12">
-                </div>
-                <div class="horizontal id6">
-                </div>
-                <div class="normal id13">
-                </div>
-                <div class="normal id14">
-                </div>
-                <div class="horizontal id7">
                 </div>
                 <div class="normal id15">
                 </div>
                 <div class="normal id16">
                 </div>
-                <div class="horizontal id8">
-                </div>
-                <div class="normal id17">
-                </div>
-                <div class="normal id18">
-                </div>
-                <div class="horizontal id9">
+                <div class="horizontal id7">
                 </div>
                 <div class="normal id19">
                 </div>
                 <div class="normal id20">
                 </div>
-                <div class="horizontal id10">
-                </div>
-                <div class="normal id21">
-                </div>
-                <div class="normal id22">
-                </div>
-                <div class="horizontal id11">
-                </div>
                 <div class="normal id23">
                 </div>
                 <div class="normal id24">
                 </div>
-                <div class="horizontal id12">
-                </div>
-                <div class="normal id25">
-                </div>
-                <div class="normal id26">
-                </div>
-                <div class="horizontal id13">
-                </div>
-                <div class="normal id27">
-                </div>
-                <div class="normal id28">
-                </div>
-                <div class="horizontal id14">
-                </div>
-                <div class="normal id29">
-                </div>
-                <div class="normal id30">
-                </div>
-                <!----horizontal---->
-                <div class="normal id31">
-                </div>
-                <div class="normal id32">
-                </div>
-                <!----horizontal---->
-                <div class="normal id33">
-                </div>
-                <div class="normal id34">
-                </div>
-                <!----horizontal---->
-                <div class="normal id35">
-                </div>
-                <div class="normal id36">
-                </div>
-                <!----horizontal---->
-                <div class="normal id37">
-                </div>
                 <div class="normal id38">
                 </div>
-                <!----horizontal---->
-                <div class="normal id39">
-                </div>
-                <div class="normal id40">
-                </div>
-                <!----horizontal---->
-                <div class="normal id41">
-                </div>
-                <div class="normal id42">
-                </div>
-                <!----horizontal---->
-                <div class="normal id43">
-                </div>
-                <div class="normal id44">
-                </div>
-                <!----horizontal---->
                 <div class="normal id45">
                 </div>
                 <div class="normal id46">
                 </div>
-                <!----horizontal---->
-                <div class="normal id47">
-                </div>
-                <div class="normal id48">
-                </div>
-                <!----horizontal---->
                 <div class="normal id49">
                 </div>
-                <div class="normal id50">
-                </div>
-                <!----horizontal---->
                 <div class="normal id51">
                 </div>
                 <div class="normal id52">
                 </div>
-                <!----horizontal---->
-                <div class="normal id53">
-                </div>
-                <div class="normal id54">
-                </div>
-                <!----horizontal---->
-                <div class="normal id55">
-                </div>
-                <div class="normal id56">
-                </div>
-                <!----horizontal---->
-                <div class="normal id57">
-                </div>
-                <div class="normal id58">
-                </div>
-                <!----horizontal---->
-                <div class="normal id59">
-                </div>
-                <div class="normal id60">
-                </div>
-                <!----horizontal---->
-                <div class="normal id61">
-                </div>
-                <div class="normal id62">
-                </div>
-                <!----horizontal---->
-                
-                
-                <div class="normal swich-box-image idH1">
-                </div>
-                <div class="normal swich-box-image idH2">
-                </div>
+
+
                 <div class="normal swich-box-image idH3">
-                </div>
-                <div class="normal swich-box-image idH4">
                 </div>
                 <div class="normal swich-box-image idH5">
                 </div>
-                <div class="normal swich-box-image idH6">
-                </div>
                 <div class="normal swich-box-image idH7">
-                </div>
-                <div class="normal swich-box-image idH8">
-                </div>
-                <div class="normal swich-box-image idH9">
-                </div>
-                <div class="normal swich-box-image idH10">
-                </div>
-                <div class="normal swich-box-image idH11">
-                </div>
-                <div class="normal swich-box-image idH12">
-                </div>
-                <div class="normal swich-box-image idH13">
-                </div>
-                <div class="normal swich-box-image idH14">
                 </div>
             </div>
         </div>

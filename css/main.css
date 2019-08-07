@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     font-family: 'Cinzel', serif;
-    background-color: #959595;
+    background-color: #000;
     background-image: url(../img/main-img-agata.png);
     background-size: cover; 
     background-repeat: no-repeat;
@@ -250,7 +250,7 @@ body > span {
 
 .portfolio-container-main > div:nth-of-type(3) {
     transform: translateX(-60px);
-    background-image: url(../img/6.jpg);
+    background-image: url(../img/16.jpg);
 }
 
 .portfolio-container-main > div:nth-of-type(1), .portfolio-container-main > div:nth-of-type(3) {
@@ -340,6 +340,7 @@ body > span {
         right: 0%;
     }
     body {
+        background-position: top center;
         background-size: auto 100vh;
     }
 }
@@ -353,8 +354,7 @@ body > span {
         padding: 0px 0px;
     }
     body {
-        background-image: url(../img/3.jpg); 
-        background-size: cover;
+        background-image: url(../img/53.jpg); 
     }
     .about-me > span > h1 {
         font-size: 22px;
@@ -387,7 +387,7 @@ body > span {
 
 @media (max-width: 488px) { /*smartfone wersion*/
     body {
-        background-image: url(../img/3small.jpg);  
+        background-image: url(../img/53.jpg);  
         background-size: auto 100vh;
     }
     .about-me.animate2:after {
